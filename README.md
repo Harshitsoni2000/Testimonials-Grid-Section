@@ -12,6 +12,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Author](#author)
+
 ## Overview
 
 ### The challenge
@@ -21,12 +22,12 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ![Desktop-View](ss/desktop-view.PNG)
-![Mobile-View](ss/mobile-view.png)
+![Mobile-View](ss/mobile-view.PNG)
 
 ### Links
 
-- [Solution URL](https://github.com/Harshitsoni2000/Social-Proof-Section)
-- [Live Site URL](https://harshitsoni2000.github.io/Social-Proof-Section/)
+- [Solution URL](https://github.com/Harshitsoni2000/Testimonials-Grid-Section)
+- [Live Site URL](https://harshitsoni2000.github.io/Testimonials-Grid-Section/)
 
 ## My process
 
